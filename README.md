@@ -1,5 +1,5 @@
+ ## Demo
  Personal blog using Django & Heroku 
-
  Demo : https://chuntsai.herokuapp.com/
 
 ## Requirements
@@ -14,7 +14,7 @@ $ cd /personal_website_path/
 $ python -m venv myvenv
 ```
 
-##### Virtualenv will isolate your Python/Django setup on a per-project basis.
+ ##### Virtualenv will isolate your Python/Django setup on a per-project basis.
 - Start your virtual environment by running: 
 ```bash
     win :
