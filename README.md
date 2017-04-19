@@ -1,3 +1,4 @@
+ Personal blog using Django & Heroku 
 
 ## Requirements
 
