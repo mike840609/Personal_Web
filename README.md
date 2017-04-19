@@ -23,4 +23,9 @@
 
 - Heroku Deployment :
     pip install django-toolbelt
-    
+    heroku create 'heroku_name'
+
+- git:
+    remote list: git remote -v
+    delete remote git : git remote rm  'git_name'
+
