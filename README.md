@@ -24,24 +24,24 @@ $ python -m venv myvenv
 ```
 - Installing Django:
 ```bash
-    pip install --upgrade pip
-    pip install django~=1.10.0
+    $ pip install --upgrade pip
+    $ pip install django~=1.10.0
 ```
 - Database Migrate :
 ```bash
-    python manage.py migrate
+    $ python manage.py migrate
 ```
 
 
 - Heroku Deployment :
 ```bash
-    pip install django-toolbelt
-    >pip install dj-database-url gunicorn whitenoise
-    heroku create 'heroku_name'
-    pip freeze > requirements.txt
-    git add .
-    git commit -m origin master
-    git push heroku master
+   $ pip install django-toolbelt
+   $ pip install dj-database-url gunicorn whitenoise
+   $ heroku create 'heroku_name'
+   $ pip freeze > requirements.txt
+   $ git add .
+   $ git commit -m origin master
+   $ git push heroku master
 ```
 
 - git revise(optional):
